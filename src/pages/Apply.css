@@ -1,0 +1,730 @@
+.body {
+    width: 1540px;
+    height: 2000px;
+    background-color: #f1f6f0;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* .Nav {
+    position: absolute;
+    width: 1540px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.08);
+
+}
+
+.blue {
+    position: absolute;
+    left: 25px;
+    right: 95.28%;
+    top: 10px;
+    bottom: 96.28%;
+}
+
+.archslate {
+    position: absolute;
+    left: 85px;
+    right: 82.64%;
+    top: 10px;
+    bottom: 96.07%;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 41px;
+}
+
+.icon {
+    position: absolute;
+    left: 1010px;
+    top: 9px;
+}
+
+.icon1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1110px;
+    top: 9px;
+}
+
+.icon2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1185px;
+    top: 10px;
+}
+
+.icon3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1265px;
+    top: 10px;
+}
+
+.icon4 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1363px;
+    top: 9px;
+}
+
+.candidates {
+    position: absolute;
+    width: 64px;
+    height: 11px;
+    left: 995px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.companies {
+    position: absolute;
+    width: 62px;
+    height: 11px;
+    left: 1095px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.jobs {
+    position: absolute;
+    width: 28px;
+    height: 11px;
+    left: 1185px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.notification {
+    position: absolute;
+    width: 72px;
+    height: 11px;
+    left: 1251px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.user {
+    position: absolute;
+    width: 61px;
+    height: 11px;
+    left: 1345px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+ */
+
+
+
+
+
+
+
+
+
+
+.arrow {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 185px;
+    top: 92px;
+}
+
+.What {
+    position: absolute;
+    width: 120px;
+    height: 18px;
+    left: 217px;
+    top: 92px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #232427;
+}
+
+.Toprectangle {
+    position: absolute;
+    width: 1070px;
+    height: 229px;
+    left: 185px;
+    top: 130px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.image4 {
+    position: absolute;
+    width: 116px;
+    height: 130px;
+    left: 20px;
+    top: 20px;
+    border-radius: 3px;
+}
+
+.ArchitecturalDesigner {
+    position: absolute;
+    width: 373px;
+    height: 35px;
+    left: 170px;
+    top: 25px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+}
+
+.share {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    left: 955px;
+    top: 20px;
+}
+
+.save {
+    position: absolute;
+    left: 1005px;
+    right: 20.83%;
+    top: 25px;
+    bottom: 8.33%;
+    background: #000000;
+}
+
+.Black {
+    position: absolute;
+    width: 262px;
+    height: 19px;
+    left: 170px;
+    top: 80px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+}
+
+.Rectangle2625 {
+    position: absolute;
+    width: 323px;
+    height: 36px;
+    left: 700px;
+    top: 70px;
+
+    background: #BBFEB5;
+    border-radius: 3px;
+}
+
+.StatusApplications {
+    position: absolute;
+    width: 297px;
+    height: 19px;
+    left: 15px;
+    top: 5px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+
+.Posted {
+    position: absolute;
+    width: 156px;
+    height: 15px;
+    left: 170px;
+    top: 120px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #000000;
+}
+
+.Rectangle11 {
+    position: absolute;
+    width: 242px;
+    height: 44px;
+    left: 785px;
+    top: 125px;
+
+    background: linear-gradient(86.54deg, #F26A5C 7.4%, #F29C6B 115.84%);
+    border-radius: 50px;
+}
+
+.ApplyonArchslate {
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    left: 20px;
+    top: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.Rectangle33 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 129px;
+    height: 30px;
+    left: 20px;
+    top: 170px;
+
+    background: #0F1420;
+    border: 1.5px solid #0F1420;
+    border-radius: 40px;
+}
+
+.Architecture {
+    position: absolute;
+    width: 98px;
+    height: 19px;
+    left: 20px;
+    top: 5px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+}
+
+.Rectangle32 {
+    position: absolute;
+    width: 102px;
+    height: 30px;
+    left: 165px;
+    top: 175px;
+
+    background: #E7FFCD;
+    border-radius: 40px;
+}
+
+.Freelance {
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    left: 20px;
+    top: 5px;
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.Rectangle2425 {
+    position: absolute;
+    width: 107px;
+    height: 30px;
+    left: 280px;
+    top: 175px;
+    background: #CCE6FF;
+    border-radius: 40px;
+}
+
+.Rectangle18 {
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    left: 185px;
+    top: 383px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.bolt1 {
+    position: absolute;
+    left: 25px;
+    right: 16.67%;
+    top: 20px;
+    bottom: 8.33%;
+}
+
+.SoftwareSkills {
+    position: absolute;
+    width: 144px;
+    height: 19px;
+    left: 60px;
+    top: 20px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Rectangle24 {
+    position: absolute;
+    width: 81px;
+    height: 33px;
+    left: 30px;
+    top: 55px;
+
+    background: #0F1420;
+    border-radius: 40px;
+}
+
+.bolt2 {
+    position: absolute;
+    height: 12.708412170410156px;
+    width: 13.322449684143066px;
+    border-radius: 0px;
+    left: 10px;
+    top: 10px;
+    background: #FFFFFF;
+}
+
+.Rhino {
+    position: absolute;
+    width: 41px;
+    height: 20px;
+    left: 30px;
+    top: 10px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #fbfefb;
+}
+
+.Rhino1 {
+    position: absolute;
+    width: 41px;
+    height: 20px;
+    left: 15px;
+    top: 10px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fbfefb;
+}
+
+.Rectangle25 {
+    position: absolute;
+    width: 100px;
+    height: 33px;
+    left: 60px;
+    top: 95px;
+
+    background: #0F1420;
+    border-radius: 40px;
+}
+
+.Rectangle26 {
+    position: absolute;
+    width: 100px;
+    height: 33px;
+    left: 120px;
+    top: 55px;
+
+    background: #0F1420;
+    border-radius: 40px;
+}
+
+.Rectangle19 {
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    left: 460px;
+    top: 383px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.Experience {
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    left: 60px;
+    top: 20px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Associate {
+    position: absolute;
+    width: 100px;
+    height: 76px;
+    left: 60px;
+    top: 60px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.Rectangle20 {
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    left: 735px;
+    top: 383px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.Experience {
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    left: 60px;
+    top: 20px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Associate {
+    position: absolute;
+    width: 100px;
+    height: 76px;
+    left: 60px;
+    top: 60px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.Rectangle21 {
+    position: absolute;
+    width: 245px;
+    height: 201px;
+    left: 1010px;
+    top: 383px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.Experience {
+    position: absolute;
+    width: 109px;
+    height: 19px;
+    left: 60px;
+    top: 20px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Associate {
+    position: absolute;
+    width: 100px;
+    height: 76px;
+    left: 60px;
+    top: 60px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #000000;
+}
+
+.Rectangle202 {
+    position: absolute;
+    width: 245px;
+    height: 200px;
+    left: 1010px;
+    top: 608px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.message {
+    position: absolute;
+    width: 51px;
+    height: 30px;
+    left: 15px;
+    top: 6px;
+
+    font-family: 'SF Pro';
+    font-style: normal;
+    font-weight: 590;
+    font-size: 14px;
+    line-height: 17px;
+    color: #fbfefb;
+}
+
+.Rectangle12 {
+    position: absolute;
+    width: 110px;
+    height: 33px;
+    left: 60px;
+    top: 120px;
+
+    background: #0F1420;
+    border-radius: 40px;
+}
+
+.Rectangle22 {
+    position: absolute;
+    width: 795px;
+    height: 1105px;
+    left: 185px;
+    top: 608px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.aboutthis {
+    position: absolute;
+    width: 651px;
+    height: 940px;
+    left: 73px;
+    top: 33px;
+
+    font-family: 'SF Pro';
+    /* font-style: normal; */
+    /* font-weight: 590; */
+    /* font-size: 18px; */
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.Rectangle11 {
+    position: absolute;
+    width: 240px;
+    height: 44px;
+    left: 0px;
+    top: 970px;
+
+    background: linear-gradient(86.54deg, #F26A5C 7.4%, #F29C6B 115.84%);
+    border-radius: 50px;
+}
+
+.ApplyonArchslate {
+    position: absolute;
+    width: 186px;
+    height: 24px;
+    left: 30px;
+    top: 10px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.Rectangle13 {
+    position: absolute;
+    width: 110px;
+    height: 44px;
+    left: 260px;
+    top: 970px;
+
+    background: #0F1420;
+    border-radius: 50px;
+}
+
+.Rectangle29 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 190px;
+    height: 44px;
+    left: 390px;
+    top: 970px;
+
+    background: #0F1420;
+    border-radius: 50px;
+}

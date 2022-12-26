@@ -1,0 +1,50 @@
+.rectangle1{
+    position: absolute;
+    width: 1440px;
+    height: 2000px;
+    left: 300px;
+    top: 100px;
+    background: #FFFFFF;
+}
+
+.searchjobs {
+    position: absolute;
+    width: 62px;
+    height: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+    left: 450px;
+    top: 88px;
+    font-weight: 700;
+}
+
+.applied {
+    position: absolute;
+    width: 60px;
+    height: 20px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+    left: 692px;
+    top: 88px;
+    font-weight: 500;
+}
+
+.savedjobs {
+    position: absolute;
+    width: 60px;
+    height: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+    left: 890px;
+    top: 88px;
+    font-weight: 500;
+}
