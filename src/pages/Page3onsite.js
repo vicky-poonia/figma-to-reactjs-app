@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Page3onsite.css";
 
-export default function page3() {
+export default function Page3onsite() {
     return (
         <>
             {/* <div>

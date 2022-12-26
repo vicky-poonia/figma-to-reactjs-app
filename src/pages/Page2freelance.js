@@ -1,10 +1,10 @@
 import React from 'react';
 import "./Page2freelance.css";
 
-export default function page1() {
+export default function Page2freelance() {
     return (
         <>
-            {/* <div>
+            <div>
                 <div className='Nav'>
                     <img className='blue' src="./images/blue4.png" alt="" />
                     <img className='archslate' src="./images/Archslate.png" alt="" />
@@ -27,7 +27,7 @@ export default function page1() {
                     <img className='line91' src="./line91.png" alt="" />
                 </div>
             </div>
-            <div className='Whattypesofjobsinterestyou'>What types of jobs interest you?</div> */}
+            <div className='Whattypesofjobsinterestyou'>What types of jobs interest you?</div>
             <div className="Full-Time">Full-Time</div>
             <div className='Rectangle35'></div>
             <div className='Rectangle36'></div>

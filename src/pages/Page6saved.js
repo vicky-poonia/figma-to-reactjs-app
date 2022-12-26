@@ -1,7 +1,7 @@
 import React from 'react';
-import "./Appliedpage.css";
+import "./Page6saved.css";
 
-export default function Appliedpage() {
+export default function Page6saved() {
     return (
         <>
             <div className='body'>
@@ -17,8 +17,8 @@ export default function Appliedpage() {
                 </div>
 
                 <div className="jobresult1">
-                    <div className='Statusdecision'>Status: Decision</div>
-                    <img className='party' src="./party.png" alt="not found" />
+                    {/* <div className='Statusdecision'>Status: Decision</div> */}
+                    {/* <img className='party' src="./party.png" alt="not found" /> */}
                     <img className='image1' src="./image1.png" alt="not found" />
                     <div className='rectangle33'>
                         <div className='archhitectual'> Architectural Design </div>
@@ -43,7 +43,7 @@ export default function Appliedpage() {
                     </div>
                     <div className='line94'></div>
                     <div className='hourly-rates'>$50-$65/hour</div>
-                    <div className='appliedDate'>Applied: 08/24/2022</div>
+                    <div className='appliedDate'>Saved: 08/24/2022</div>
                     <div className='SkillRequirements'>Skill Requirements </div>
                     <div className="rectangle24">
                         <div className='rhino'>Rhino</div>
@@ -61,8 +61,8 @@ export default function Appliedpage() {
 
 
                 <div className="JobResult2">
-                    <div className='Statusdecision'>Status: Decision</div>
-                    <img className='party' src="./party.png" alt="not found" />
+                    {/* <div className='Statusdecision'>Status: Decision</div> */}
+                    {/* <img className='party' src="./party.png" alt="not found" /> */}
                     <img className='image1' src="./Rectangle 2572.png" alt="not found" />
                     <div className='rectangle33'>
                         <div className='archhitectual'> Architectural Design </div>
@@ -87,7 +87,7 @@ export default function Appliedpage() {
                     </div>
                     <div className='line94'></div>
                     <div className='hourly-rates'>$50-$65/hour</div>
-                    <div className='appliedDate'>Applied: 08/24/2022</div>
+                    <div className='appliedDate'>Saved: 08/24/2022</div>
                     <div className='SkillRequirements'>Skill Requirements </div>
                     <div className="rectangle24">
                         <div className='rhino'>Rhino</div>

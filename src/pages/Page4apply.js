@@ -1,7 +1,7 @@
 import React from 'react';
-import "./Apply.css";
+import "./Page4pply.css";
 
-export default function Apply() {
+export default function Page4apply() {
     return (
         <>
             <div className='body'>

@@ -1,0 +1,205 @@
+.body{
+    width: 1440px;
+}
+
+.Nav {
+    position: absolute;
+    width: 1540px;
+    height: 60px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.08);
+
+}
+
+.blue {
+    position: absolute;
+    left: 25px;
+    right: 95.28%;
+    top: 10px;
+    bottom: 96.28%;
+}
+
+.archslate {
+    position: absolute;
+    left: 85px;
+    right: 82.64%;
+    top: 10px;
+    bottom: 96.07%;
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 41px;
+}
+
+.icon {
+    position: absolute;
+    left: 1010px;
+    top: 9px;
+}
+
+.icon1 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1110px;
+    top: 9px;
+}
+
+.icon2 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1185px;
+    top: 10px;
+}
+
+.icon3 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1265px;
+    top: 10px;
+}
+
+.icon4 {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1363px;
+    top: 9px;
+}
+
+.candidates {
+    position: absolute;
+    width: 64px;
+    height: 11px;
+    left: 995px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.companies {
+    position: absolute;
+    width: 62px;
+    height: 11px;
+    left: 1095px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.jobs {
+    position: absolute;
+    width: 28px;
+    height: 11px;
+    left: 1185px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.notification {
+    position: absolute;
+    width: 72px;
+    height: 11px;
+    left: 1251px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.user {
+    position: absolute;
+    width: 61px;
+    height: 11px;
+    left: 1345px;
+    top: 38px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.rectangle1 {
+    position: absolute;
+    width: 1540px;
+    height: 87px;
+    left: 0px;
+    top: 60px;
+    background: #FFFFFF;
+}
+
+.searchjobs {
+    position: absolute;
+    width: 112px;
+    height: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+
+    left: 450px;
+    top: 30px;
+    font-weight: 700;
+}
+
+.savedjobs {
+    position: absolute;
+    width: 108px;
+    height: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+
+    left: 890px;
+    top: 30px;
+    font-weight: 500;
+}
+
+.applied {
+    position: absolute;
+    width: 75px;
+    height: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #232427;
+
+    left: 692px;
+    top: 30px;
+    font-weight: 500;
+}
+
+/* .line91 {
+    position: absolute;
+    width: 99px;
+    height: 2px;
+    left: 450px;
+    top: 55px;
+} */
