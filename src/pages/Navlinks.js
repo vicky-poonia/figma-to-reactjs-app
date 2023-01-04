@@ -2,7 +2,7 @@ import React from 'react';
 import "./Navlinks.css";
 import { Link } from "react-router-dom";
 
-const Page1fulltime = "./Page1fulltime";
+const Page3onsite = "./Page3onsite";
 const Page6saved = "./Page6saved";
 const Page5applied = "./Page5applied";
 
@@ -27,7 +27,7 @@ export default function Navlinks() {
                         <span className='user'>User Name</span>
                     </div>
                     <div className="rectangle1">
-                        <span className='searchjobs'><Link to={Page1fulltime}>  Search jobs </Link> </span>
+                        <span className='searchjobs'><Link to={Page3onsite}>  Search jobs </Link> </span>
                         <span className='savedjobs'><Link to={Page6saved}>  Saved jobs </Link></span>
                         <span className='applied'><Link to={Page5applied}>  Applied </Link></span>
                         {/* <img className='line91' src="./line91.png" alt="" /> */}

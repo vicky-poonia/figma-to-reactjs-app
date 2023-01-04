@@ -728,6 +728,11 @@
     background: #1E1E1E;
 }
 
+.preventoverlap31{
+    position: absolute;
+    top: 550px;
+}
+
 .jobresult1 {
     position: absolute;
     width: 1030px;

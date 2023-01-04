@@ -131,46 +131,48 @@ export default function Page3onsite() {
             </div>
             {/* <div className='results241'>167 results</div> */}
 
-            <div className="jobresult1">
-                {/* <div className='Statusdecision'>Status: Decision</div> */}
-                {/* <img className='party' src="./party.png" alt="not found" /> */}
-                <img className='image1' src="./image11.png" alt="not found" />
-                {/* <div className='rectangle33'> */}
+            <div className='preventoverlap31'>
+                <div className="jobresult1">
+                    {/* <div className='Statusdecision'>Status: Decision</div> */}
+                    {/* <img className='party' src="./party.png" alt="not found" /> */}
+                    <img className='image1' src="./image11.png" alt="not found" />
+                    {/* <div className='rectangle33'> */}
                     {/* <div className='archhitectual'> Architectural Designer </div> */}
-                {/* </div> */}
-                <div className='rectangle32'>
-                    <div className='archhitectual'> Full-Time </div>
-                </div>
-                <div className='rectangle2428'>
-                    <div className='archhitectual'> On-Site </div>
-                </div>
-                {/* <div className='rectangle2425'>
+                    {/* </div> */}
+                    <div className='rectangle32'>
+                        <div className='archhitectual'> Full-Time </div>
+                    </div>
+                    <div className='rectangle2428'>
+                        <div className='archhitectual'> On-Site </div>
+                    </div>
+                    {/* <div className='rectangle2425'>
                     <div className='archhitectual'> Long-Term </div>
                 </div> */}
-                <div className='share-android'> <img src="./share.png" alt="" /> </div>
-                <div className='save'> <img src="./save.png" alt="" /> </div>
-                <div className='architecturalDesigner'>Designer</div>
-                <div className='blackMountainArchitecture'>Black Mountain Architecture</div>
-                <div className='line93'></div>
-                <div className="location">
-                    <img src="./location.png" alt="" />
-                    <span className='bozeman'> Bozeman, MT </span>
-                </div>
-                <div className='line94'></div>
-                <div className='hourly-rates'>$50-$65/hour</div>
-                <div className='appliedDate'>Posted: 08/24/2022</div>
-                <div className='SkillRequirements'>Skill Requirements </div>
-                <div className="rectangle24">
-                    <div className='rhino'>Rhino</div>
-                </div>
-                <div className="rectangle2433">
-                    <div className='blender'>Blender</div>
-                </div>
-                <div className="rectangle2436">
-                    <div className='rhevit'>Rhevit</div>
-                </div>
-                <div className="Rectangle2570">
-                    <div className='viewjob'> Apply </div>
+                    <div className='share-android'> <img src="./share.png" alt="" /> </div>
+                    <div className='save'> <img src="./save.png" alt="" /> </div>
+                    <div className='architecturalDesigner'>Designer</div>
+                    <div className='blackMountainArchitecture'>Black Mountain Architecture</div>
+                    <div className='line93'></div>
+                    <div className="location">
+                        <img src="./location.png" alt="" />
+                        <span className='bozeman'> Bozeman, MT </span>
+                    </div>
+                    <div className='line94'></div>
+                    <div className='hourly-rates'>$50-$65/hour</div>
+                    <div className='appliedDate'>Posted: 08/24/2022</div>
+                    <div className='SkillRequirements'>Skill Requirements </div>
+                    <div className="rectangle24">
+                        <div className='rhino'>Rhino</div>
+                    </div>
+                    <div className="rectangle2433">
+                        <div className='blender'>Blender</div>
+                    </div>
+                    <div className="rectangle2436">
+                        <div className='rhevit'>Rhevit</div>
+                    </div>
+                    <div className="Rectangle2570">
+                        <div className='viewjob'> Apply </div>
+                    </div>
                 </div>
             </div>
             <div className="JobResult2">
